@@ -1,6 +1,6 @@
 - Hi, I’m @matt-farish
 - Studying Comp-Sci and Games and Interactivity @ Swinburne University of Technology.
-- Starting as a Engineering graduate at CommBank in 2024!
+- Starting as an Technology (Engineering) graduate at CommBank in 2024!
 
 
 
